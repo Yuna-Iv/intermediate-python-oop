@@ -3,7 +3,7 @@
 
 python 04_decorators/decorators.py
 
-3. Для тестів
+2. Для тестів
 
 python -m unittest 09_unit_tests/test_examples.py -v
 
