@@ -5,7 +5,7 @@ python 04_decorators/decorators.py
 
 2. Для тестів
 
-python -m unittest 09_unit_tests/test_examples.py -v
+python -m unittest 09_unit_tests/test_ex.py -v
 
 Технології:
 - Python 3.10+
