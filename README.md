@@ -1,8 +1,10 @@
 Запуск:
 1. Для окремого файлу
+
 python 04_decorators/decorators.py
 
-2. Для тестів
+3. Для тестів
+
 python -m unittest 09_unit_tests/test_examples.py -v
 
 Технології:
